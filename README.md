@@ -1,0 +1,2 @@
+# basket-chain-backend
+Backend services and APIs for Basket Chain Agro, powering authentication, database management, marketplace operations, orders, and connectivity between farmers, manufacturers, and international buyers.
